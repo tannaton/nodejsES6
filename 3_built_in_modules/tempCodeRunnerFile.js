@@ -1,0 +1,1 @@
+console.log(os.networkInterfaces()['Wi-Fi'][3].address)
